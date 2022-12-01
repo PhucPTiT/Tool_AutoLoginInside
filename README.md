@@ -2,7 +2,7 @@
 
 # Mô tả: 
 - Tool được viết bằng python và chạy trên các nền tảng Window, Linux
-- Được dùng để điểm danh hàng ngày vào khung giờ được set trong code là 8: 15
+- Được dùng để điểm danh hàng ngày vào khung giờ được set trong code là 8: 15 trên trang https://inside.fptshop.com.vn/
 
 # Hướng dẫn sử dụng
 

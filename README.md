@@ -11,5 +11,5 @@
 - Sau đó quét mã QR nhân viên để lấy link getOTP và dán vào ô nhập link OTP
 - Xong và để tool chạy cùng máy tính của bạn hàng ngày( nếu tắt máy tính thì tool cũng tắt nhé)
 
-#Version 1.0.0
--Trong phiên bản đầu tiên còn nhiều điểm chưa được tiện lợi nên mình sẽ cố gắng khắc phục và cập nhật. Cảm ơn các bạn đã ghé thăm và nhớ cho mình xin 1 sao nhé
+# Version 1.0.0
+- Trong phiên bản đầu tiên còn nhiều điểm chưa được tiện lợi nên mình sẽ cố gắng khắc phục và cập nhật. Cảm ơn các bạn đã ghé thăm và nhớ cho mình xin 1 sao nhé
